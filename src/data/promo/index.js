@@ -1,0 +1,5 @@
+export const promo = [
+    { title: "Flash Sale", description: "Promo Flash Sale Gajian, Belanja mulai dari Rp 10 Aja", image: "https://images.unsplash.com/photo-1621208586877-be0c9bc8a7c5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" },
+    { title: "Promo Paket Data", description: "Promo Paket Data, Banyak hadiah menarik", image: "https://images.unsplash.com/photo-1528697203043-733dafdaa316?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=700&q=80" },
+    { title: "Promo Akhir Bulan", description: "Akhir bulan makin asiik aja nih", image: "https://images.unsplash.com/photo-1596659387022-ced30c7de50b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" },
+]

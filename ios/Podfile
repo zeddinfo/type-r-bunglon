@@ -3,7 +3,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 
 platform :ios, '11.0'
 
-target 'AdiSiswoyo_Apptest' do
+target 'Isidw_Bunglon' do
   config = use_native_modules!
 
   use_react_native!(
@@ -14,7 +14,7 @@ target 'AdiSiswoyo_Apptest' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
-  target 'AdiSiswoyo_ApptestTests' do
+  target 'Isidw_BunglonTests' do
     inherit! :complete
     # Pods for testing
   end

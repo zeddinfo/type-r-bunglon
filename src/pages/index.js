@@ -1,9 +1,9 @@
-import ListContact from "./ListContact";
-import CreatePage from './CreatePage';
-import EditPage from './EditPage';
+import Splashscreen from "./Splashscreen";
+import { OnBorading } from "./onBoarding";
+import { PulsaData } from "./PulsaData";
 
 export {
-    ListContact,
-    CreatePage,
-    EditPage,
+    Splashscreen,
+    OnBorading,
+    PulsaData,
 }
